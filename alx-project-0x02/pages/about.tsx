@@ -1,5 +1,5 @@
 import Header from "@/components/layout/Header";
-import Button from "../components/common/Button";
+import Button from "@/components/common/Button";
 
 const About: React.FC = () => {
   const handleButtonClick = (buttonType: string) => {
